@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\bin\Debug\net8.0\leidodeteclado.exe
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\bin\Debug\net8.0\leidodeteclado.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\bin\Debug\net8.0\leidodeteclado.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\bin\Debug\net8.0\leidodeteclado.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\bin\Debug\net8.0\leidodeteclado.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\refint\leidodeteclado.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\leidodeteclado.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\leidodeteclado\leidodeteclado\obj\Debug\net8.0\ref\leidodeteclado.dll

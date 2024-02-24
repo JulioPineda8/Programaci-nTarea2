@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\bin\Debug\net8.0\using.exe
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\bin\Debug\net8.0\using.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\bin\Debug\net8.0\using.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\bin\Debug\net8.0\using.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\bin\Debug\net8.0\using.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\refint\using.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\using.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\using\using\obj\Debug\net8.0\ref\using.dll

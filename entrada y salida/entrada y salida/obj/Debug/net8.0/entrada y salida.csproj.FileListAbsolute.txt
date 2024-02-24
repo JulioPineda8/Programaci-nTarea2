@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\bin\Debug\net8.0\entrada y salida.exe
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\bin\Debug\net8.0\entrada y salida.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\bin\Debug\net8.0\entrada y salida.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\bin\Debug\net8.0\entrada y salida.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\bin\Debug\net8.0\entrada y salida.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\refint\entrada y salida.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\entrada y salida.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación Tarea 2\entrada y salida\entrada y salida\obj\Debug\net8.0\ref\entrada y salida.dll
